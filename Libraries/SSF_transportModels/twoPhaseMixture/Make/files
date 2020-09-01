@@ -1,0 +1,3 @@
+twoPhaseMixture/twoPhaseMixture.C
+
+LIB = $(FOAM_USER_LIBBIN)/lib222tSSFwoPhaseMixture_smooth

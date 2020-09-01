@@ -1,0 +1,10 @@
+EXE_INC = \
+    -I../twoPhaseMixture/lnInclude \
+    -I../interfaceProperties/lnInclude \
+    -I$(LIB_SRC)/finiteVolume/lnInclude
+
+LIB_LIBS = \
+     -L$(FOAM_USER_LIBBIN) \
+    -l222tSSFwoPhaseMixture_smooth \
+    -l222tSSFinterfaceProperties_smooth \
+    -lfiniteVolume
