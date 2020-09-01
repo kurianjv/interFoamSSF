@@ -14,7 +14,7 @@ Step 2: Now go the the interFoamSSF folder ```$ cd ../../interFoamSSF/``` and ru
 This should have installed interFoamSSF solver in ```FOAM_USER_APPBIN ```.
 
 # Validation 
-This implemented Sharp Surface Force model in interFoam, interFoamSSF, is validated for two-dimensional cases of rising bubbles, capillary rise, stationary millimeter and submillimeter sized bubbles. These cases and the solver setting used are described in [2,3].
+This implemented Sharp Surface Force model in interFoam, interFoamSSF, is validated for two-dimensional cases of rising bubbles, capillary rise, stationary millimeter and submillimeter sized bubbles. These cases, the solver setting used and the results are described in [2,3].
 
 # Usage
 The interFoamSSF solver is released under Creative Commons Attribution-NonCommercial 4.0 International Public License (see LICENSE.txt included included in the main directory). Please feel free to extend, modify and use the solver according to your requirement (only for noncommerical usage), we would only like to ask that you to refer to the papers mentioned in references.
