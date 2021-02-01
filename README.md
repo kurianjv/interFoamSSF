@@ -22,4 +22,4 @@ The interFoamSSF solver is released under Creative Commons Attribution-NonCommer
 # Related references
 1. Raeini, A.Q., Blunt, M.J., Bijeljic, B. 2012. Modelling two-phase flow in porous media at the pore scale using the volume-of-fluid method. Journal of Computational Physics, 231: 5653–5668. [doi:10.1016/j.jcp.2012.04.011](https://doi.org/10.1016/j.jcp.2012.04.011)
 2. Vachaparambil, K.J., Einarsrud, K.E. 2019. Comparison of surface tension models for the volume of fluid method. Processes, 7(8): 542. [doi:10.3390/pr7080542](https://doi.org/10.3390/pr7080542)
-3. Vachaparambil, K.J., Einarsrud, K.E. 2020. On sharp surface force model: Effect of sharpening coefficient. Experimental and Computational Multiphase Flow. [doi:10.1007/s42757-020-0063-5](https://doi.org/10.1007/s42757-020-0063-5)
+3. Vachaparambil, K.J., Einarsrud, K.E. 2021. On sharp surface force model: Effect of sharpening coefficient. Experimental and Computational Multiphase Flow, 3: 226–232. [doi:10.1007/s42757-020-0063-5](https://doi.org/10.1007/s42757-020-0063-5)
