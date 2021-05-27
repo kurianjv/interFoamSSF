@@ -2,7 +2,7 @@
 Sharp Surface Force model implemented in interFoam
 
 # Overview
-The Sharp Surface Force (SSF) model, proposed by [1], is implemented in interFoam instead of the Continuum Surface Force model as discussed in [2,3].
+The Sharp Surface Force (SSF) model, proposed by [1], is implemented in interFoam instead of the Continuum Surface Force model as discussed in [2,3]. For verification of the model please refer to [2,3].
 
 # Description
 This version is developed for OpenFOAM 6. Please follow the following step to compile the solver:
